@@ -1,1 +1,0 @@
-# android-kernel-hacking-toolkit
